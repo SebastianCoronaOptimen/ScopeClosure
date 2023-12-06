@@ -1,0 +1,2 @@
+# ScopeClosure
+Curso-Scope/Closure
